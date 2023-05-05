@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HazemKareem
 - 👀 I’m interested in programming and reading 
 - 🌱 I’m currently learning develop desktop app and web using c# .net 
-- 💞️ I’m looking to collaborate on training to learning mobile app with xamarin
+- 💞️ I’m looking to collaborate on training to learning mobile app
 - 📫 How to reach me ...
 
 <!---
